@@ -1,1 +1,1 @@
-# ArshiaMohammad_MavenProject
+# This project is about a give away new year gift.There will be items like chocolates, sweets which are given their respected name and price. User should select the items with lower and higher limit of the price and automatically item will be added to the gift box, finally will display the total items of giftbox and the weight of giftbox.
